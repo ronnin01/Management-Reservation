@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1605252907 source:c:\users\aaron gabriel\desktop\codes\c compiled\hotel management reservation\main.c
+	<stdio.h>
+	<stdlib.h>
+
